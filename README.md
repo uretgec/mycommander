@@ -1,5 +1,5 @@
 # MyCommander
 Generate shell command library with simple methods.
 
-## Use This
+## Who Use
 [Gitd Download Manager](https://github.com/git-download-manager)
